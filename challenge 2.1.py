@@ -25,7 +25,7 @@ class  BankAccount:
       print("Account balance for {} (Account #{}): ₹{}".format(self.__account_holder_name, 
          self.__account_number, self.__account_balance))
   
-account = BankAccount(account_number="123456789", account_holder_name="Shyam", 
+account = BankAccount(account_number="123456789", account_holder_name="Jai suriya", 
           initial_balance=5000.0)
 
 
